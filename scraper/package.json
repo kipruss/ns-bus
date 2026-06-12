@@ -1,0 +1,12 @@
+{
+  "name": "ns-bus-scraper",
+  "version": "1.0.0",
+  "description": "Scraper for GSPNS Novi Sad bus data",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NS Bus — Gradski prevoz Novog Sada</title>
+    <meta name="description" content="Interaktivna mapa gradskih autobuskih linija u Novom Sadu. Pregled ruta, stajališta i redova vožnje JGSP Novi Sad.">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- App CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="app-header">
+        <div class="header-content">
+            <div class="header-brand">
+                <span class="header-icon">🚌</span>
+                <h1>NS Bus</h1>
+                <span class="header-subtitle">Gradski prevoz Novog Sada</span>
+            </div>
+            <div class="header-actions">
+                <button id="btn-clear-all" class="btn-header" title="Ukloni sve linije sa mape">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+                    Očisti mapu
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Layout -->
+    <div id="app-layout">
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <!-- Search -->
+            <div class="sidebar-search">
+                <div class="search-box">
+                    <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+                    <input type="text" id="search-input" placeholder="Pretraži linije..." autocomplete="off">
+                </div>
+            </div>
+
+            <!-- Route List -->
+            <div id="route-list" class="sidebar-routes">
+                <div class="loading-spinner">
+                    <div class="spinner"></div>
+                    <span>Učitavanje linija...</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Map -->
+        <main id="map-container">
+            <div id="map"></div>
+        </main>
+
+        <!-- Schedule Panel (slides from bottom/right) -->
+        <div id="schedule-panel" class="schedule-panel hidden">
+            <div class="schedule-header">
+                <div class="schedule-title-row">
+                    <h2 id="schedule-title">Red vožnje</h2>
+                    <button id="btn-close-schedule" class="btn-close" title="Zatvori">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+                    </button>
+                </div>
+                <div class="schedule-day-tabs">
+                    <button class="day-tab active" data-day="R">Radni dan</button>
+                    <button class="day-tab" data-day="S">Subota</button>
+                    <button class="day-tab" data-day="N">Nedelja</button>
+                </div>
+            </div>
+            <div id="schedule-content" class="schedule-content">
+                <!-- Schedule tables rendered here -->
+            </div>
+            <div id="schedule-legend" class="schedule-legend"></div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- App JS -->
+    <script src="js/app.js"></script>
+</body>
+</html>

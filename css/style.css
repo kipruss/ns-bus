@@ -1,0 +1,747 @@
+/* ═══════════════════════════════════════════════════════════
+   NS Bus — Design System
+   Dark theme with glassmorphism, smooth animations
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── CSS Variables ──────────────────────────────────────── */
+:root {
+  --bg-primary: #0a1628;
+  --bg-secondary: #0f1f3a;
+  --bg-tertiary: #162a4a;
+  --bg-glass: rgba(15, 31, 58, 0.88);
+  --bg-glass-hover: rgba(22, 42, 74, 0.95);
+  --bg-card: rgba(22, 42, 74, 0.6);
+
+  --text-primary: #e8edf5;
+  --text-secondary: #8fa3c0;
+  --text-muted: #5a7194;
+
+  --accent: #00d4ff;
+  --accent-glow: rgba(0, 212, 255, 0.2);
+  --accent-dim: rgba(0, 212, 255, 0.08);
+
+  --border: rgba(100, 150, 220, 0.12);
+  --border-active: rgba(0, 212, 255, 0.4);
+
+  --sidebar-width: 370px;
+  --header-height: 56px;
+  --schedule-width: 420px;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 40px rgba(0, 0, 0, 0.5);
+
+  --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ─── Reset & Base ───────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ─── Scrollbar ──────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(100, 150, 220, 0.2);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 150, 220, 0.35);
+}
+
+/* ─── Header ─────────────────────────────────────────────── */
+#app-header {
+  height: var(--header-height);
+  background: var(--bg-glass);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  z-index: 1000;
+  position: relative;
+}
+
+.header-content {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header-icon {
+  font-size: 24px;
+  filter: drop-shadow(0 0 8px rgba(0, 212, 255, 0.4));
+}
+
+.header-brand h1 {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, #ffffff, var(--accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-subtitle {
+  font-size: 12px;
+  color: var(--text-muted);
+  font-weight: 400;
+  padding-left: 10px;
+  border-left: 1px solid var(--border);
+}
+
+.btn-header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text-secondary);
+  font-size: 12px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.btn-header:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-primary);
+  border-color: var(--border-active);
+}
+
+/* ─── Layout ─────────────────────────────────────────────── */
+#app-layout {
+  display: flex;
+  height: calc(100vh - var(--header-height));
+  position: relative;
+}
+
+/* ─── Sidebar ────────────────────────────────────────────── */
+#sidebar {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-glass);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-right: 1px solid var(--border);
+  z-index: 100;
+  overflow: hidden;
+}
+
+/* ─── Search ─────────────────────────────────────────────── */
+.sidebar-search {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  transition: var(--transition);
+}
+
+.search-box:focus-within {
+  border-color: var(--border-active);
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 0 0 3px var(--accent-dim);
+}
+
+.search-icon {
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.search-box input {
+  flex: 1;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.search-box input::placeholder {
+  color: var(--text-muted);
+}
+
+/* ─── Route List ─────────────────────────────────────────── */
+.sidebar-routes {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 0;
+}
+
+/* Route group (e.g., "Linija 1") */
+.route-group {
+  margin-bottom: 2px;
+}
+
+.route-group-header {
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  cursor: pointer;
+  user-select: none;
+  transition: var(--transition);
+}
+
+.route-group-header:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.route-group-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 14px;
+  color: #fff;
+  flex-shrink: 0;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.route-group-info {
+  flex: 1;
+  margin-left: 12px;
+  min-width: 0;
+}
+
+.route-group-name {
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--text-primary);
+}
+
+.route-group-desc {
+  font-size: 11px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 1px;
+}
+
+.route-group-toggle {
+  color: var(--text-muted);
+  transition: var(--transition);
+  flex-shrink: 0;
+}
+
+.route-group.expanded .route-group-toggle {
+  transform: rotate(90deg);
+}
+
+/* Individual route items */
+.route-items {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.route-group.expanded .route-items {
+  max-height: 600px;
+}
+
+.route-item {
+  display: flex;
+  align-items: center;
+  padding: 7px 16px 7px 28px;
+  cursor: pointer;
+  transition: var(--transition);
+  border-left: 3px solid transparent;
+  margin-left: 16px;
+}
+
+.route-item:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.route-item.active {
+  background: var(--accent-dim);
+  border-left-color: var(--accent);
+}
+
+.route-item-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  height: 24px;
+  padding: 0 6px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  flex-shrink: 0;
+  letter-spacing: 0.3px;
+}
+
+.route-item-title {
+  flex: 1;
+  margin-left: 10px;
+  font-size: 11px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.route-item-schedule-btn {
+  flex-shrink: 0;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: var(--transition);
+  opacity: 0;
+}
+
+.route-item:hover .route-item-schedule-btn,
+.route-item.active .route-item-schedule-btn {
+  opacity: 1;
+}
+
+.route-item-schedule-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--accent);
+}
+
+/* ─── Map ────────────────────────────────────────────────── */
+#map-container {
+  flex: 1;
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Override Leaflet popup styles */
+.leaflet-popup-content-wrapper {
+  background: var(--bg-glass) !important;
+  backdrop-filter: blur(16px) !important;
+  -webkit-backdrop-filter: blur(16px) !important;
+  color: var(--text-primary) !important;
+  border-radius: var(--radius-md) !important;
+  border: 1px solid var(--border) !important;
+  box-shadow: var(--shadow-lg) !important;
+  font-family: 'Inter', sans-serif !important;
+}
+
+.leaflet-popup-content {
+  margin: 12px 16px !important;
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+}
+
+.leaflet-popup-tip {
+  background: var(--bg-glass) !important;
+  border: 1px solid var(--border) !important;
+}
+
+.leaflet-popup-close-button {
+  color: var(--text-muted) !important;
+}
+
+.popup-stop-name {
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.popup-stop-zone {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 3px;
+  background: var(--accent-dim);
+  border: 1px solid var(--border-active);
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.popup-stop-lines {
+  font-size: 11px;
+  color: var(--text-secondary);
+}
+
+.popup-stop-lines span {
+  display: inline-block;
+  padding: 1px 4px;
+  margin: 1px 2px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* ─── Schedule Panel ─────────────────────────────────────── */
+.schedule-panel {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: var(--schedule-width);
+  height: 100%;
+  background: var(--bg-glass);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border-left: 1px solid var(--border);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(0);
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+              opacity 0.3s ease;
+  box-shadow: -4px 0 30px rgba(0, 0, 0, 0.3);
+}
+
+.schedule-panel.hidden {
+  transform: translateX(100%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+.schedule-header {
+  padding: 16px 20px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.schedule-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.schedule-title-row h2 {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.btn-close {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.btn-close:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-primary);
+}
+
+/* Day tabs */
+.schedule-day-tabs {
+  display: flex;
+  gap: 4px;
+  padding-bottom: 0;
+}
+
+.day-tab {
+  flex: 1;
+  padding: 8px 0;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-muted);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.day-tab:hover {
+  color: var(--text-secondary);
+}
+
+.day-tab.active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* Schedule content */
+.schedule-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px;
+}
+
+.schedule-direction {
+  margin-bottom: 20px;
+}
+
+.schedule-direction-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.schedule-dir-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.schedule-dir-badge.dir-a {
+  background: rgba(0, 212, 255, 0.3);
+  color: var(--accent);
+}
+
+.schedule-dir-badge.dir-b {
+  background: rgba(255, 165, 0, 0.3);
+  color: #ffa500;
+}
+
+.schedule-dir-name {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+/* Timetable grid */
+.timetable {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.timetable-row {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  padding: 3px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.timetable-row.current-hour {
+  background: var(--accent-dim);
+  border-radius: 4px;
+  padding: 3px 6px;
+  margin: 0 -6px;
+}
+
+.timetable-hour {
+  width: 28px;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--accent);
+  flex-shrink: 0;
+  text-align: right;
+  padding-right: 6px;
+}
+
+.timetable-minutes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.timetable-minute {
+  display: inline-flex;
+  align-items: baseline;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  transition: var(--transition);
+}
+
+.timetable-minute:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.timetable-minute.low-floor {
+  color: #4ec94e;
+}
+
+.timetable-note {
+  font-size: 9px;
+  font-weight: 600;
+  color: var(--text-muted);
+  vertical-align: super;
+  margin-left: 1px;
+}
+
+/* Schedule legend */
+.schedule-legend {
+  padding: 10px 20px;
+  border-top: 1px solid var(--border);
+  font-size: 10px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* ─── Loading ────────────────────────────────────────────── */
+.loading-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  gap: 12px;
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+.spinner {
+  width: 28px;
+  height: 28px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ─── Empty state ────────────────────────────────────────── */
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.empty-state-icon {
+  font-size: 32px;
+  margin-bottom: 8px;
+  opacity: 0.5;
+}
+
+/* ─── Leaflet overrides for dark map ─────────────────────── */
+.leaflet-control-zoom a {
+  background: var(--bg-glass) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--border) !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: var(--bg-glass-hover) !important;
+}
+
+.leaflet-control-attribution {
+  background: rgba(10, 22, 40, 0.7) !important;
+  color: var(--text-muted) !important;
+  font-size: 10px !important;
+}
+
+.leaflet-control-attribution a {
+  color: var(--text-secondary) !important;
+}
+
+/* ─── Responsive ─────────────────────────────────────────── */
+@media (max-width: 768px) {
+  :root {
+    --sidebar-width: 100%;
+    --schedule-width: 100%;
+  }
+
+  #app-layout {
+    flex-direction: column;
+  }
+
+  #sidebar {
+    height: 45%;
+    min-width: unset;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+
+  #map-container {
+    height: 55%;
+  }
+
+  .header-subtitle {
+    display: none;
+  }
+
+  .schedule-panel {
+    top: auto;
+    bottom: 0;
+    width: 100%;
+    height: 60%;
+    transform: translateY(0);
+    border-left: none;
+    border-top: 1px solid var(--border);
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  }
+
+  .schedule-panel.hidden {
+    transform: translateY(100%);
+  }
+}

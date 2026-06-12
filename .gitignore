@@ -1,0 +1,4 @@
+node_modules/
+scraper/node_modules/
+scraper/package-lock.json
+.DS_Store
