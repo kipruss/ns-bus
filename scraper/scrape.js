@@ -20,8 +20,33 @@ const DATA_DIR = join(__dirname, '..', 'data');
 const BASE_URL = 'http://www.gspns.co.rs';
 const DELAY_MS = 300; // delay between requests to be respectful
 
-// Schedule valid-from date (current schedule)
-const VAZIOD = '2026-05-01';
+// Schedule valid-from date — auto-detected from GSPNS
+let VAZIOD = null;
+
+async function detectVaziod() {
+  console.log('📆 Detecting current schedule date...');
+  const html = await fetchText(`${BASE_URL}/red-voznje/gradski`);
+  if (!html) {
+    console.error('  ⚠ Could not fetch schedule page, using fallback date');
+    return '2026-05-01';
+  }
+  const $ = cheerio.load(html);
+  // Get all <option> values from the vaziod select
+  const options = [];
+  $('#vaziod option').each((_, el) => {
+    const val = $(el).attr('value');
+    if (val) options.push(val);
+  });
+  if (options.length === 0) {
+    console.error('  ⚠ No vaziod options found, using fallback date');
+    return '2026-05-01';
+  }
+  // Pick the latest (last) date
+  options.sort();
+  const latest = options[options.length - 1];
+  console.log(`  Found ${options.length} schedule date(s), using: ${latest}`);
+  return latest;
+}
 
 // Schedule line parameters (from GSPNS schedule page)
 // Format: { param: URL parameter, key: our schedule key }
@@ -328,6 +353,10 @@ async function main() {
   if (!existsSync(DATA_DIR)) {
     mkdirSync(DATA_DIR, { recursive: true });
   }
+
+  // Auto-detect schedule date
+  VAZIOD = await detectVaziod();
+  await sleep(DELAY_MS);
 
   // Step 1: Parse route list
   const routes = await parseRoutes();
