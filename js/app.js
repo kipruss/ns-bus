@@ -52,6 +52,20 @@ async function loadData() {
     routesData = await routesRes.json();
     schedulesData = await schedulesRes.json();
 
+    // Load metadata
+    try {
+      const metaRes = await fetch('data/metadata.json');
+      if (metaRes.ok) {
+        const meta = await metaRes.json();
+        const date = new Date(meta.lastUpdated);
+        const formatted = date.toLocaleDateString('sr-Latn-RS', {
+          day: '2-digit', month: '2-digit', year: 'numeric'
+        });
+        document.getElementById('data-info').innerHTML =
+          `<span>📅 Red vožnje od: ${meta.scheduleDate}</span><span>🔄 Podaci: ${formatted}</span>`;
+      }
+    } catch (_) {}
+
     console.log(`Loaded ${routesData.length} routes, ${Object.keys(schedulesData).length} schedule groups`);
   } catch (e) {
     console.error('Error loading data:', e);

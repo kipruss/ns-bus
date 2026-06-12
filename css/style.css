@@ -212,6 +212,17 @@ html, body {
   padding: 8px 0;
 }
 
+/* Sidebar footer — data info */
+.sidebar-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 16px;
+  border-top: 1px solid var(--border);
+  font-size: 10px;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
 /* Route group (e.g., "Linija 1") */
 .route-group {
   margin-bottom: 2px;

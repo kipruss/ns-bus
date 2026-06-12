@@ -410,6 +410,17 @@ async function main() {
   writeFileSync(schedulesPath, JSON.stringify(schedules, null, 2), 'utf-8');
   console.log(`\n💾 Saved schedules to ${schedulesPath}`);
 
+  // Save metadata
+  const metadata = {
+    lastUpdated: new Date().toISOString(),
+    scheduleDate: VAZIOD,
+    routeCount: routes.length,
+    scheduleCount: Object.keys(schedules).length,
+  };
+  const metaPath = join(DATA_DIR, 'metadata.json');
+  writeFileSync(metaPath, JSON.stringify(metadata, null, 2), 'utf-8');
+  console.log(`💾 Saved metadata to ${metaPath}`);
+
   // Summary
   console.log('\n✅ Done!');
   console.log(`  Routes: ${routes.length}`);
