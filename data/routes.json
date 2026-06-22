@@ -5159,23 +5159,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
-        "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "USPENSKA - ŠAFARIKOVA",
         "lat": 45.255083741,
         "lng": 19.8416138869,
@@ -5188,25 +5171,21 @@
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
         "zone": "I",
         "photo": null,
         "lines": [
           "2A",
-          "6A",
-          "6DA",
+          "7A",
+          "7B",
+          "8B",
           "9B",
           "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -5230,6 +5209,45 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
+        ]
+      },
+      {
         "name": "FUTOŠKA - JODNA BANJA",
         "lat": 45.2492337673,
         "lng": 19.8289089911,
@@ -5239,7 +5257,6 @@
           "2A",
           "6A",
           "6DA",
-          "52A",
           "53A",
           "54A",
           "54AA",
@@ -5247,42 +5264,6 @@
           "55A",
           "55CGA",
           "53CGA"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
-        "name": "FUTOŠKI PUT - SATELITSKA PIJACA",
-        "lat": 45.2461119679,
-        "lng": 19.7998632846,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "52A",
-          "53A",
-          "53CGA",
-          "54A",
-          "54AA",
-          "54ŽAA",
-          "55A",
-          "55CGA",
-          "56A"
         ]
       },
       {
@@ -5297,7 +5278,24 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
+          "53A",
+          "53CGA",
+          "54A",
+          "54AA",
+          "54ŽAA",
+          "55A",
+          "55CGA",
+          "56A"
+        ]
+      },
+      {
+        "name": "FUTOŠKI PUT - SATELITSKA PIJACA",
+        "lat": 45.2461119679,
+        "lng": 19.7998632846,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
           "53A",
           "53CGA",
           "54A",
@@ -5580,7 +5578,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -5588,7 +5586,8 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -5624,6 +5623,26 @@
         "photo": "/slike/stajalista/10504.jpg",
         "lines": [
           "2B"
+        ]
+      },
+      {
+        "name": "FUTOŠKA - ANTONA ČEHOVA",
+        "lat": 45.2490835157,
+        "lng": 19.8300215701,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB"
         ]
       },
       {
@@ -5682,16 +5701,13 @@
         ]
       },
       {
-        "name": "FUTOŠKA - ANTONA ČEHOVA",
-        "lat": 45.2490835157,
-        "lng": 19.8300215701,
+        "name": "FUTOŠKI PUT - BULEVAR PATRIJARHA PAVLA",
+        "lat": 45.2445958159,
+        "lng": 19.79550631,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
-          "6B",
-          "6DB",
-          "52B",
           "53B",
           "53CGB",
           "54B",
@@ -5699,7 +5715,8 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB"
+          "55CGB",
+          "56B"
         ]
       },
       {
@@ -5726,14 +5743,18 @@
         ]
       },
       {
-        "name": "FUTOŠKI PUT - BULEVAR PATRIJARHA PAVLA",
-        "lat": 45.2445958159,
-        "lng": 19.79550631,
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
-          "52B",
+          "6B",
+          "6DB",
+          "6ĐA",
+          "9A",
+          "9AA",
           "53B",
           "53CGB",
           "54B",
@@ -5755,31 +5776,6 @@
           "2B",
           "6B",
           "6DB",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB",
-          "56B"
-        ]
-      },
-      {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "6ĐA",
-          "9A",
-          "9AA",
           "52B",
           "53B",
           "53CGB",
@@ -16062,7 +16058,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "54AA",
           "53CGA",
@@ -16070,26 +16065,6 @@
           "54ŽAA",
           "55A",
           "55CGA"
-        ]
-      },
-      {
-        "name": "FUTOŠKA - JODNA BANJA",
-        "lat": 45.2492337673,
-        "lng": 19.8289089911,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "52A",
-          "53A",
-          "54A",
-          "54AA",
-          "54ŽAA",
-          "55A",
-          "55CGA",
-          "53CGA"
         ]
       },
       {
@@ -16106,6 +16081,25 @@
         ]
       },
       {
+        "name": "FUTOŠKA - JODNA BANJA",
+        "lat": 45.2492337673,
+        "lng": 19.8289089911,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "53A",
+          "54A",
+          "54AA",
+          "54ŽAA",
+          "55A",
+          "55CGA",
+          "53CGA"
+        ]
+      },
+      {
         "name": "FUTOŠKA - JUGOALAT",
         "lat": 45.2478325873,
         "lng": 19.810052585,
@@ -16117,7 +16111,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -17101,6 +17094,26 @@
         ]
       },
       {
+        "name": "FUTOŠKA - ANTONA ČEHOVA",
+        "lat": 45.2490835157,
+        "lng": 19.8300215701,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB"
+        ]
+      },
+      {
         "name": "FEJEŠ KLARE - PRAVOSLAVNA CRKVA",
         "lat": 45.23855347,
         "lng": 19.8108903063,
@@ -17149,27 +17162,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - ANTONA ČEHOVA",
-        "lat": 45.2490835157,
-        "lng": 19.8300215701,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB"
-        ]
-      },
-      {
         "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
         "lat": 45.2488161894,
         "lng": 19.8177958089,
@@ -17193,28 +17185,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - CARA DUŠANA",
-        "lat": 45.2491656314,
-        "lng": 19.8252968807,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB",
-          "56B"
-        ]
-      },
-      {
         "name": "FUTOŠKI PUT - VRŠAČKA",
         "lat": 45.247517576,
         "lng": 19.8083415635,
@@ -17227,6 +17197,27 @@
           "6ĐA",
           "9A",
           "9AA",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB",
+          "56B"
+        ]
+      },
+      {
+        "name": "FUTOŠKA - CARA DUŠANA",
+        "lat": 45.2491656314,
+        "lng": 19.8252968807,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
           "52B",
           "53B",
           "53CGB",
@@ -18421,6 +18412,17 @@
         ]
       },
       {
+        "name": "BEOGRADSKI KEJ - BAJČI ŽILINSKOG - DANUBIUS",
+        "lat": 45.265037,
+        "lng": 19.859896,
+        "zone": "I",
+        "photo": "/slike/stajalista/10972.jpg",
+        "lines": [
+          "6DA",
+          "6DB"
+        ]
+      },
+      {
         "name": "FUTOŠKA - BULEVAR EVROPE",
         "lat": 45.2485623853,
         "lng": 19.815564749,
@@ -18432,7 +18434,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "54AA",
           "53CGA",
@@ -18440,37 +18441,6 @@
           "54ŽAA",
           "55A",
           "55CGA"
-        ]
-      },
-      {
-        "name": "FUTOŠKA - JODNA BANJA",
-        "lat": 45.2492337673,
-        "lng": 19.8289089911,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "52A",
-          "53A",
-          "54A",
-          "54AA",
-          "54ŽAA",
-          "55A",
-          "55CGA",
-          "53CGA"
-        ]
-      },
-      {
-        "name": "BEOGRADSKI KEJ - BAJČI ŽILINSKOG - DANUBIUS",
-        "lat": 45.265037,
-        "lng": 19.859896,
-        "zone": "I",
-        "photo": "/slike/stajalista/10972.jpg",
-        "lines": [
-          "6DA",
-          "6DB"
         ]
       },
       {
@@ -18487,6 +18457,25 @@
         ]
       },
       {
+        "name": "FUTOŠKA - JODNA BANJA",
+        "lat": 45.2492337673,
+        "lng": 19.8289089911,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "53A",
+          "54A",
+          "54AA",
+          "54ŽAA",
+          "55A",
+          "55CGA",
+          "53CGA"
+        ]
+      },
+      {
         "name": "FUTOŠKA - JUGOALAT",
         "lat": 45.2478325873,
         "lng": 19.810052585,
@@ -18498,7 +18487,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -19337,6 +19325,26 @@
         ]
       },
       {
+        "name": "FUTOŠKA - ANTONA ČEHOVA",
+        "lat": 45.2490835157,
+        "lng": 19.8300215701,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB"
+        ]
+      },
+      {
         "name": "FEJEŠ KLARE - PRAVOSLAVNA CRKVA",
         "lat": 45.23855347,
         "lng": 19.8108903063,
@@ -19385,27 +19393,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - ANTONA ČEHOVA",
-        "lat": 45.2490835157,
-        "lng": 19.8300215701,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB"
-        ]
-      },
-      {
         "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
         "lat": 45.2488161894,
         "lng": 19.8177958089,
@@ -19429,28 +19416,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - CARA DUŠANA",
-        "lat": 45.2491656314,
-        "lng": 19.8252968807,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB",
-          "56B"
-        ]
-      },
-      {
         "name": "FUTOŠKI PUT - VRŠAČKA",
         "lat": 45.247517576,
         "lng": 19.8083415635,
@@ -19463,6 +19428,27 @@
           "6ĐA",
           "9A",
           "9AA",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB",
+          "56B"
+        ]
+      },
+      {
+        "name": "FUTOŠKA - CARA DUŠANA",
+        "lat": 45.2491656314,
+        "lng": 19.8252968807,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
           "52B",
           "53B",
           "53CGB",
@@ -20040,19 +20026,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "NARODNOG FRONTA - ŠEKSPIROVA",
         "lat": 45.2400602044,
         "lng": 19.8370412179,
@@ -20092,7 +20065,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -20100,7 +20073,22 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -20216,7 +20204,7 @@
         "lat": 45.2489713023,
         "lng": 19.7915144259,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -20225,7 +20213,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -20316,23 +20305,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
         "lat": 45.2489224745,
         "lng": 19.791754249,
@@ -20345,6 +20317,24 @@
           "9A",
           "9AA",
           "18A"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -21087,6 +21077,23 @@
         ]
       },
       {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
+        ]
+      },
+      {
         "name": "IVE ANDRIĆA - BULEVAR EVROPE",
         "lat": 45.2394232209,
         "lng": 19.8253580867,
@@ -21142,22 +21149,6 @@
           "81B",
           "84B",
           "86B"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
-        "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
-        "lines": [
-          "2B",
-          "7A",
-          "7B",
-          "8A",
-          "9A",
-          "9AA",
-          "18A"
         ]
       },
       {
@@ -21261,7 +21252,7 @@
         "lat": 45.2489713023,
         "lng": 19.7915144259,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -21270,7 +21261,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -21432,7 +21424,7 @@
         "lat": 45.248251,
         "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -21441,7 +21433,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -21950,7 +21943,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -21958,7 +21951,8 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -22026,6 +22020,17 @@
         ]
       },
       {
+        "name": "RAŠE RADUJKOVA - VLADIKE ĆIRIĆA",
+        "lat": 45.2542051645,
+        "lng": 19.8072929653,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "8A",
+          "52B"
+        ]
+      },
+      {
         "name": "KISAČKA - BULEVAR KRALJA PETRA PRVOG",
         "lat": 45.2623699914,
         "lng": 19.8401023551,
@@ -22054,16 +22059,6 @@
           "1JA",
           "8A",
           "17A"
-        ]
-      },
-      {
-        "name": "RAŠE RADUJKOVA - VLADIKE ĆIRIĆA",
-        "lat": 45.2542051645,
-        "lng": 19.8072929653,
-        "zone": "I",
-        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0364334.jpg",
-        "lines": [
-          "8A"
         ]
       },
       {
@@ -22989,23 +22984,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
-        "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "KISAČKA - TEMERINSKA",
         "lat": 45.2608711975,
         "lng": 19.8423966225,
@@ -23057,13 +23035,21 @@
         ]
       },
       {
-        "name": "RAŠE RADUJKOVA - STOJANA NOVAKOVIĆA",
-        "lat": 45.2540476132,
-        "lng": 19.8064282878,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
         "zone": "I",
-        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0363333.jpg",
+        "photo": null,
         "lines": [
-          "8B"
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -23087,11 +23073,22 @@
         ]
       },
       {
+        "name": "RAŠE RADUJKOVA - STOJANA NOVAKOVIĆA",
+        "lat": 45.2540476132,
+        "lng": 19.8064282878,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "8B",
+          "52A"
+        ]
+      },
+      {
         "name": "NOVO NASELJE - KRUŽNI TOK",
         "lat": 45.248251,
         "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -23100,7 +23097,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       }
     ]
@@ -23804,19 +23802,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "CARA DUŠANA - MEDICINSKA ŠKOLA",
         "lat": 45.2436192236,
         "lng": 19.8250937953,
@@ -23929,7 +23914,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -23937,7 +23922,22 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -24077,7 +24077,6 @@
           "6ĐA",
           "9A",
           "9AA",
-          "52B",
           "53B",
           "53CGB",
           "54B",
@@ -25037,7 +25036,7 @@
         "lat": 45.2489713023,
         "lng": 19.7915144259,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -25046,29 +25045,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
-        ]
-      },
-      {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "9B",
-          "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -25133,11 +25111,32 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "NOVO NASELJE - KRUŽNI TOK",
         "lat": 45.248251,
         "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -25146,7 +25145,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -25161,7 +25161,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -26294,19 +26293,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "CARA DUŠANA - MEDICINSKA ŠKOLA",
         "lat": 45.2436192236,
         "lng": 19.8250937953,
@@ -26419,7 +26405,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -26427,7 +26413,22 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -26601,7 +26602,6 @@
           "6ĐA",
           "9A",
           "9AA",
-          "52B",
           "53B",
           "53CGB",
           "54B",
@@ -27616,7 +27616,7 @@
         "lat": 45.2489713023,
         "lng": 19.7915144259,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -27625,29 +27625,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
-        ]
-      },
-      {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "9B",
-          "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -27728,11 +27707,32 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "NOVO NASELJE - KRUŽNI TOK",
         "lat": 45.248251,
         "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -27741,7 +27741,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -27756,7 +27757,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -36039,6 +36039,17 @@
         ]
       },
       {
+        "name": "BULEVAR EVROPE - FUTOŠKA",
+        "lat": 45.249118,
+        "lng": 19.816518,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "13B",
+          "52A"
+        ]
+      },
+      {
         "name": "OBLAČIĆA RADA - JANKA ČMELIKA",
         "lat": 45.265188,
         "lng": 19.808222,
@@ -36046,16 +36057,6 @@
         "photo": "/slike/10137.jpg",
         "lines": [
           "3A",
-          "13B"
-        ]
-      },
-      {
-        "name": "BULEVAR EVROPE - FUTOŠKA",
-        "lat": 45.249118,
-        "lng": 19.816518,
-        "zone": "I",
-        "photo": "/slike/10156.jpg",
-        "lines": [
           "13B"
         ]
       },
@@ -37199,17 +37200,6 @@
         ]
       },
       {
-        "name": "VETERNIK - CENTAR",
-        "lat": 45.2502026841,
-        "lng": 19.7570349816,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14A",
-          "52A"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
         "lat": 45.2613766166,
         "lng": 19.8318492939,
@@ -37266,6 +37256,17 @@
         "photo": null,
         "lines": [
           "14A"
+        ]
+      },
+      {
+        "name": "VETERNIK - CENTAR",
+        "lat": 45.2502026841,
+        "lng": 19.7570349816,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14A",
+          "52B"
         ]
       }
     ]
@@ -38102,9 +38103,9 @@
         ]
       },
       {
-        "name": "VETERNIK - STADION",
-        "lat": 45.2531656254,
-        "lng": 19.7606394502,
+        "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
+        "lat": 45.2543231427185,
+        "lng": 19.7620929551699,
         "zone": "I",
         "photo": null,
         "lines": [
@@ -38288,6 +38289,17 @@
         ]
       },
       {
+        "name": "VETERNIK - STADION",
+        "lat": 45.2531656254,
+        "lng": 19.7606394502,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "52B"
+        ]
+      },
+      {
         "name": "VETERNIK - PRAVOSLAVNA CRKVA - OKRETNICA",
         "lat": 45.248742,
         "lng": 19.75592,
@@ -38315,16 +38327,6 @@
           "14SB",
           "15APTB",
           "18A"
-        ]
-      },
-      {
-        "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
-        "lat": 45.2543231427185,
-        "lng": 19.7620929551699,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14B"
         ]
       },
       {
@@ -46479,19 +46481,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "RUMENAČKA - ABC SAMOPOSLUGA",
         "lat": 45.2609008436,
         "lng": 19.8204896166,
@@ -46573,7 +46562,7 @@
         "lat": 45.247888,
         "lng": 19.787416,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
           "2B",
           "7A",
@@ -46581,7 +46570,22 @@
           "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -46666,23 +46670,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
-        "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "USPENSKA - ŠAFARIKOVA",
         "lat": 45.255083741,
         "lng": 19.8416138869,
@@ -46692,6 +46679,24 @@
           "2A",
           "18A",
           "18B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -46796,23 +46801,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
         "lat": 45.2489224745,
         "lng": 19.791754249,
@@ -46825,6 +46813,24 @@
           "9A",
           "9AA",
           "18A"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -47841,23 +47847,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
-        "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "USPENSKA - ŠAFARIKOVA",
         "lat": 45.255083741,
         "lng": 19.8416138869,
@@ -47867,6 +47856,24 @@
           "2A",
           "18A",
           "18B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -47990,7 +47997,7 @@
         "lat": 45.248251,
         "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -47999,7 +48006,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       }
     ]
