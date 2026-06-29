@@ -7248,6 +7248,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -9576,6 +9577,53 @@
     ],
     "stops": [
       {
+        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
+        "lat": 45.2525198464,
+        "lng": 19.8368000824,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5A",
+          "5NB",
+          "7B",
+          "10A",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "18B",
+          "19B",
+          "60B",
+          "61B",
+          "62B",
+          "63B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ISB",
+          "71ČTB",
+          "71AB",
+          "72B",
+          "73B",
+          "74B",
+          "76B",
+          "77B",
+          "78B",
+          "79B",
+          "80B",
+          "81B",
+          "84B",
+          "86B"
+        ]
+      },
+      {
         "name": "PRERADOVIĆEVA - RELJKOVIĆEVA",
         "lat": 45.2496755784,
         "lng": 19.8757045697,
@@ -9670,52 +9718,6 @@
         ]
       },
       {
-        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
-        "lat": 45.2525198464,
-        "lng": 19.8368000824,
-        "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
-        "lines": [
-          "3AB",
-          "4A",
-          "5A",
-          "5NB",
-          "7B",
-          "10A",
-          "14A",
-          "15NKA",
-          "15NPA",
-          "18B",
-          "19B",
-          "60B",
-          "61B",
-          "62B",
-          "63B",
-          "64B",
-          "68B",
-          "68ISB",
-          "68KPB",
-          "69B",
-          "69ĐB",
-          "71B",
-          "71ČB",
-          "71ISB",
-          "71ČTB",
-          "71AB",
-          "72B",
-          "73B",
-          "74B",
-          "76B",
-          "77B",
-          "78B",
-          "79B",
-          "80B",
-          "81B",
-          "84B",
-          "86B"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - POKRAJINSKI SUP",
         "lat": 45.255629856,
         "lng": 19.8351029309,
@@ -9762,6 +9764,25 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
         "name": "PRERADOVIĆEVA - ŠENOINA",
         "lat": 45.251431704,
         "lng": 19.8732154355,
@@ -9780,24 +9801,6 @@
           "64B",
           "69B",
           "71ČTB"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
-          "14A",
-          "15NKA",
-          "17B",
-          "19B"
         ]
       },
       {
@@ -10776,6 +10779,53 @@
     ],
     "stops": [
       {
+        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
+        "lat": 45.2525198464,
+        "lng": 19.8368000824,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5A",
+          "5NB",
+          "7B",
+          "10A",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "18B",
+          "19B",
+          "60B",
+          "61B",
+          "62B",
+          "63B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ISB",
+          "71ČTB",
+          "71AB",
+          "72B",
+          "73B",
+          "74B",
+          "76B",
+          "77B",
+          "78B",
+          "79B",
+          "80B",
+          "81B",
+          "84B",
+          "86B"
+        ]
+      },
+      {
         "name": "ŽARKA ZRENJANINA - IZVRŠNO VEĆE",
         "lat": 45.2528535063,
         "lng": 19.8475593745,
@@ -10902,52 +10952,6 @@
         ]
       },
       {
-        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
-        "lat": 45.2525198464,
-        "lng": 19.8368000824,
-        "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
-        "lines": [
-          "3AB",
-          "4A",
-          "5A",
-          "5NB",
-          "7B",
-          "10A",
-          "14A",
-          "15NKA",
-          "15NPA",
-          "18B",
-          "19B",
-          "60B",
-          "61B",
-          "62B",
-          "63B",
-          "64B",
-          "68B",
-          "68ISB",
-          "68KPB",
-          "69B",
-          "69ĐB",
-          "71B",
-          "71ČB",
-          "71ISB",
-          "71ČTB",
-          "71AB",
-          "72B",
-          "73B",
-          "74B",
-          "76B",
-          "77B",
-          "78B",
-          "79B",
-          "80B",
-          "81B",
-          "84B",
-          "86B"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - POKRAJINSKI SUP",
         "lat": 45.255629856,
         "lng": 19.8351029309,
@@ -10983,17 +10987,6 @@
         ]
       },
       {
-        "name": "NARODNOG FRONTA - OKRETNICA",
-        "lat": 45.2371046813,
-        "lng": 19.8262756442,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "4A",
-          "4B"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
         "lat": 45.2613766166,
         "lng": 19.8318492939,
@@ -11006,9 +10999,21 @@
           "7B",
           "10ALA",
           "14A",
+          "14GSA",
           "15NKA",
           "17B",
           "19B"
+        ]
+      },
+      {
+        "name": "NARODNOG FRONTA - OKRETNICA",
+        "lat": 45.2371046813,
+        "lng": 19.8262756442,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "4A",
+          "4B"
         ]
       },
       {
@@ -12323,25 +12328,11 @@
         ]
       },
       {
-        "name": "RUMENAČKA - DOM ZDRAVLJA",
-        "lat": 45.260450059,
-        "lng": 19.8213763649,
-        "zone": "I",
-        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0171154.jpg",
-        "lines": [
-          "3A",
-          "5A",
-          "11B",
-          "11ĐB",
-          "18B"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -12350,6 +12341,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -12380,6 +12372,20 @@
           "81B",
           "84B",
           "86B"
+        ]
+      },
+      {
+        "name": "RUMENAČKA - DOM ZDRAVLJA",
+        "lat": 45.260450059,
+        "lng": 19.8213763649,
+        "zone": "I",
+        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0171154.jpg",
+        "lines": [
+          "3A",
+          "5A",
+          "11B",
+          "11ĐB",
+          "18B"
         ]
       },
       {
@@ -12616,29 +12622,6 @@
         ]
       },
       {
-        "name": "RUMENAČKA - BULEVAR JAŠE TOMIĆA",
-        "lat": 45.2633439588,
-        "lng": 19.8182127414,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3A",
-          "5A",
-          "7B",
-          "14A",
-          "14SA",
-          "18B",
-          "41A",
-          "42A",
-          "42KRA",
-          "43A",
-          "10APTA",
-          "15APTA",
-          "43RTKA",
-          "43TKA"
-        ]
-      },
-      {
         "name": "TEMERINSKA - PARTIZANSKA",
         "lat": 45.2696690854,
         "lng": 19.8421271396,
@@ -12658,6 +12641,30 @@
           "24B",
           "24CB",
           "30B"
+        ]
+      },
+      {
+        "name": "RUMENAČKA - BULEVAR JAŠE TOMIĆA",
+        "lat": 45.2633439588,
+        "lng": 19.8182127414,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3A",
+          "5A",
+          "7B",
+          "14A",
+          "14SA",
+          "14GSA",
+          "18B",
+          "41A",
+          "42A",
+          "42KRA",
+          "43A",
+          "10APTA",
+          "15APTA",
+          "43RTKA",
+          "43TKA"
         ]
       },
       {
@@ -14486,7 +14493,7 @@
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -14495,6 +14502,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -14763,6 +14771,7 @@
           "7B",
           "10ALA",
           "14A",
+          "14GSA",
           "15NKA",
           "17B",
           "19B"
@@ -20948,6 +20957,53 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
+        "lat": 45.2525198464,
+        "lng": 19.8368000824,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5A",
+          "5NB",
+          "7B",
+          "10A",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "18B",
+          "19B",
+          "60B",
+          "61B",
+          "62B",
+          "63B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ISB",
+          "71ČTB",
+          "71AB",
+          "72B",
+          "73B",
+          "74B",
+          "76B",
+          "77B",
+          "78B",
+          "79B",
+          "80B",
+          "81B",
+          "84B",
+          "86B"
+        ]
+      },
+      {
         "name": "BULEVAR JOVANA DUČIĆA - BULEVAR SLOBODANA JOVANOVIĆA",
         "lat": 45.2529483166,
         "lng": 19.8031021067,
@@ -21103,52 +21159,6 @@
           "7B",
           "11A",
           "12A"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
-        "lat": 45.2525198464,
-        "lng": 19.8368000824,
-        "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
-        "lines": [
-          "3AB",
-          "4A",
-          "5A",
-          "5NB",
-          "7B",
-          "10A",
-          "14A",
-          "15NKA",
-          "15NPA",
-          "18B",
-          "19B",
-          "60B",
-          "61B",
-          "62B",
-          "63B",
-          "64B",
-          "68B",
-          "68ISB",
-          "68KPB",
-          "69B",
-          "69ĐB",
-          "71B",
-          "71ČB",
-          "71ISB",
-          "71ČTB",
-          "71AB",
-          "72B",
-          "73B",
-          "74B",
-          "76B",
-          "77B",
-          "78B",
-          "79B",
-          "80B",
-          "81B",
-          "84B",
-          "86B"
         ]
       },
       {
@@ -21334,6 +21344,25 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
         "name": "RUMENAČKA - BULEVAR JAŠE TOMIĆA",
         "lat": 45.2633439588,
         "lng": 19.8182127414,
@@ -21345,6 +21374,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -21435,24 +21465,6 @@
           "18A",
           "18B",
           "52A"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
-          "14A",
-          "15NKA",
-          "17B",
-          "19B"
         ]
       }
     ]
@@ -28118,18 +28130,6 @@
         ]
       },
       {
-        "name": "PUT NOVOSADSKOG PARTIZANSKOG ODREDA - ALBUS\r\n",
-        "lat": 45.278889,
-        "lng": 19.806465,
-        "zone": "I",
-        "photo": "/slike/stajalista/10176.jpg",
-        "lines": [
-          "10ALA",
-          "10MALA",
-          "24AKNA"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
         "lat": 45.2613766166,
         "lng": 19.8318492939,
@@ -28142,9 +28142,22 @@
           "7B",
           "10ALA",
           "14A",
+          "14GSA",
           "15NKA",
           "17B",
           "19B"
+        ]
+      },
+      {
+        "name": "PUT NOVOSADSKOG PARTIZANSKOG ODREDA - ALBUS\r\n",
+        "lat": 45.278889,
+        "lng": 19.806465,
+        "zone": "I",
+        "photo": "/slike/stajalista/10176.jpg",
+        "lines": [
+          "10ALA",
+          "10MALA",
+          "24AKNA"
         ]
       },
       {
@@ -29350,6 +29363,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -36916,7 +36930,7 @@
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -36925,6 +36939,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -37084,6 +37099,45 @@
         ]
       },
       {
+        "name": "VETERNIK - SAVKE SUBOTIĆ",
+        "lat": 45.258963,
+        "lng": 19.76754,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14A"
+        ]
+      },
+      {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
+        "name": "SAJLOVO 2",
+        "lat": 45.2751092444,
+        "lng": 19.7865491723,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14A"
+        ]
+      },
+      {
         "name": "RUMENAČKA - BULEVAR JAŠE TOMIĆA",
         "lat": 45.2633439588,
         "lng": 19.8182127414,
@@ -37095,6 +37149,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -37104,47 +37159,6 @@
           "15APTA",
           "43RTKA",
           "43TKA"
-        ]
-      },
-      {
-        "name": "VETERNIK - SAVKE SUBOTIĆ",
-        "lat": 45.258963,
-        "lng": 19.76754,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14A"
-        ]
-      },
-      {
-        "name": "RUMENAČKA - RADNIČKO IGRALIŠTE",
-        "lat": 45.2660444179,
-        "lng": 19.8148147237,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "5A",
-          "10APTA",
-          "14A",
-          "14SA",
-          "41A",
-          "42A",
-          "42KRA",
-          "42KNA",
-          "43A",
-          "15APTA",
-          "43RTKA",
-          "43TKA"
-        ]
-      },
-      {
-        "name": "SAJLOVO 2",
-        "lat": 45.2751092444,
-        "lng": 19.7865491723,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14A"
         ]
       },
       {
@@ -37200,21 +37214,24 @@
         ]
       },
       {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
+        "name": "RUMENAČKA - RADNIČKO IGRALIŠTE",
+        "lat": 45.2660444179,
+        "lng": 19.8148147237,
         "zone": "I",
         "photo": null,
         "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
+          "5A",
+          "10APTA",
           "14A",
-          "15NKA",
-          "17B",
-          "19B"
+          "14SA",
+          "41A",
+          "42A",
+          "42KRA",
+          "42KNA",
+          "43A",
+          "15APTA",
+          "43RTKA",
+          "43TKA"
         ]
       },
       {
@@ -38085,24 +38102,6 @@
     ],
     "stops": [
       {
-        "name": "RUMENAČKI PUT - KRUŽNI TOK",
-        "lat": 45.2747023047,
-        "lng": 19.8018176756,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14B",
-          "14SB",
-          "14ĐB",
-          "41B",
-          "42B",
-          "42NKB",
-          "43B",
-          "43KRB",
-          "43TKB"
-        ]
-      },
-      {
         "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
         "lat": 45.2543231427185,
         "lng": 19.7620929551699,
@@ -38391,6 +38390,253 @@
           "43KRB",
           "43TKB"
         ]
+      },
+      {
+        "name": "RUMENAČKI PUT - KRUŽNI TOK",
+        "lat": 45.2747023047,
+        "lng": 19.8018176756,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "14SB",
+          "14GSB",
+          "14ĐB",
+          "41B",
+          "42B",
+          "42NKB",
+          "43B",
+          "43KRB",
+          "43TKB"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "name": "14GSA",
+    "title": "CENTAR - SAJLOVO - VETERNIK (KROZ GORNJE SAJLOVO)",
+    "color": "#CEA4BF",
+    "scheduleGroup": null,
+    "polyline": [],
+    "stops": [
+      {
+        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
+        "lat": 45.2525198464,
+        "lng": 19.8368000824,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5A",
+          "5NB",
+          "7B",
+          "10A",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "18B",
+          "19B",
+          "60B",
+          "61B",
+          "62B",
+          "63B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ISB",
+          "71ČTB",
+          "71AB",
+          "72B",
+          "73B",
+          "74B",
+          "76B",
+          "77B",
+          "78B",
+          "79B",
+          "80B",
+          "81B",
+          "84B",
+          "86B"
+        ]
+      },
+      {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
+        "name": "BULEVAR JAŠE TOMIĆA - ŽELEZNIČKI PARK",
+        "lat": 45.2640771252,
+        "lng": 19.8231059398,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7B",
+          "10APTA",
+          "10ALA",
+          "10MALA",
+          "10ZKRA",
+          "11A",
+          "11ĐA",
+          "14A",
+          "14GSA",
+          "15APTA"
+        ]
+      },
+      {
+        "name": "RUMENAČKA - BULEVAR JAŠE TOMIĆA",
+        "lat": 45.2633439588,
+        "lng": 19.8182127414,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3A",
+          "5A",
+          "7B",
+          "14A",
+          "14SA",
+          "14GSA",
+          "18B",
+          "41A",
+          "42A",
+          "42KRA",
+          "43A",
+          "10APTA",
+          "15APTA",
+          "43RTKA",
+          "43TKA"
+        ]
+      },
+      {
+        "name": "USPENSKA - ŠAFARIKOVA",
+        "lat": 45.255074308,
+        "lng": 19.8415125346,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14A",
+          "14SA",
+          "14GSA",
+          "17A",
+          "17B"
+        ]
+      },
+      {
+        "name": "BULEVAR OSLOBOĐENJA - POKRAJINSKI SUP",
+        "lat": 45.255629856,
+        "lng": 19.8351029309,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "10MALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "17B",
+          "18B",
+          "19B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ČTB",
+          "71ISB",
+          "72B",
+          "73B",
+          "74B",
+          "76B"
+        ]
+      },
+      {
+        "name": "BULEVAR JAŠE TOMIĆA - ŽELEZNIČKA STANICA",
+        "lat": 45.2640665923,
+        "lng": 19.8291811843,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "7B",
+          "10APTA",
+          "10ALA",
+          "10MALA",
+          "10ZKRA",
+          "10APTA",
+          "11A",
+          "11ĐA",
+          "14A",
+          "14GSA"
+        ]
+      },
+      {
+        "name": "GORNJE SAJLOVO - DRAGANA BANDIĆA",
+        "lat": 45.2741363153822,
+        "lng": 19.7785424404249,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14SA",
+          "14GSA"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "name": "14GSB",
+    "title": "VETERNIK - SAJLOVO - CENTAR (KROZ GORNJE SAJLOVO)",
+    "color": "#CEA4BF",
+    "scheduleGroup": null,
+    "polyline": [],
+    "stops": [
+      {
+        "name": "RUMENAČKI PUT - KRUŽNI TOK",
+        "lat": 45.2747023047,
+        "lng": 19.8018176756,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "14SB",
+          "14GSB",
+          "14ĐB",
+          "41B",
+          "42B",
+          "42NKB",
+          "43B",
+          "43KRB",
+          "43TKB"
+        ]
       }
     ]
   },
@@ -38604,16 +38850,6 @@
     ],
     "stops": [
       {
-        "name": "GORNJE SAJLOVO - DRAGANA BANDIĆA",
-        "lat": 45.2741363153822,
-        "lng": 19.7785424404249,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14SA"
-        ]
-      },
-      {
         "name": "RUMENAČKI PUT - AVIJATIČARSKA",
         "lat": 45.2712216153,
         "lng": 19.8079135339,
@@ -38646,33 +38882,13 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
           "42KRA",
           "43A",
           "10APTA",
-          "15APTA",
-          "43RTKA",
-          "43TKA"
-        ]
-      },
-      {
-        "name": "RUMENAČKA - RADNIČKO IGRALIŠTE",
-        "lat": 45.2660444179,
-        "lng": 19.8148147237,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "5A",
-          "10APTA",
-          "14A",
-          "14SA",
-          "41A",
-          "42A",
-          "42KRA",
-          "42KNA",
-          "43A",
           "15APTA",
           "43RTKA",
           "43TKA"
@@ -38857,6 +39073,27 @@
         ]
       },
       {
+        "name": "RUMENAČKA - RADNIČKO IGRALIŠTE",
+        "lat": 45.2660444179,
+        "lng": 19.8148147237,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "5A",
+          "10APTA",
+          "14A",
+          "14SA",
+          "41A",
+          "42A",
+          "42KRA",
+          "42KNA",
+          "43A",
+          "15APTA",
+          "43RTKA",
+          "43TKA"
+        ]
+      },
+      {
         "name": "GORNJE SAJLOVO - SIME ĆIRKOVIĆA",
         "lat": 45.2767634373118,
         "lng": 19.7814714800692,
@@ -38893,6 +39130,17 @@
         "photo": null,
         "lines": [
           "14SA"
+        ]
+      },
+      {
+        "name": "GORNJE SAJLOVO - DRAGANA BANDIĆA",
+        "lat": 45.2741363153822,
+        "lng": 19.7785424404249,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14SA",
+          "14GSA"
         ]
       }
     ]
@@ -39667,24 +39915,6 @@
     ],
     "stops": [
       {
-        "name": "RUMENAČKI PUT - KRUŽNI TOK",
-        "lat": 45.2747023047,
-        "lng": 19.8018176756,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14B",
-          "14SB",
-          "14ĐB",
-          "41B",
-          "42B",
-          "42NKB",
-          "43B",
-          "43KRB",
-          "43TKB"
-        ]
-      },
-      {
         "name": "RUMENAČKI PUT - NADVOŽNJAK",
         "lat": 45.2801667701,
         "lng": 19.7863577779,
@@ -39934,6 +40164,25 @@
           "14SB",
           "14ĐB",
           "15APTB",
+          "41B",
+          "42B",
+          "42NKB",
+          "43B",
+          "43KRB",
+          "43TKB"
+        ]
+      },
+      {
+        "name": "RUMENAČKI PUT - KRUŽNI TOK",
+        "lat": 45.2747023047,
+        "lng": 19.8018176756,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "14SB",
+          "14GSB",
+          "14ĐB",
           "41B",
           "42B",
           "42NKB",
@@ -40395,24 +40644,6 @@
     ],
     "stops": [
       {
-        "name": "RUMENAČKI PUT - KRUŽNI TOK",
-        "lat": 45.2747023047,
-        "lng": 19.8018176756,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14B",
-          "14SB",
-          "14ĐB",
-          "41B",
-          "42B",
-          "42NKB",
-          "43B",
-          "43KRB",
-          "43TKB"
-        ]
-      },
-      {
         "name": "RUMENAČKI PUT - NADVOŽNJAK",
         "lat": 45.2801667701,
         "lng": 19.7863577779,
@@ -40509,6 +40740,25 @@
           "14SB",
           "14ĐB",
           "15APTB",
+          "41B",
+          "42B",
+          "42NKB",
+          "43B",
+          "43KRB",
+          "43TKB"
+        ]
+      },
+      {
+        "name": "RUMENAČKI PUT - KRUŽNI TOK",
+        "lat": 45.2747023047,
+        "lng": 19.8018176756,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "14SB",
+          "14GSB",
+          "14ĐB",
           "41B",
           "42B",
           "42NKB",
@@ -40841,6 +41091,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -42608,7 +42859,7 @@
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -42617,6 +42868,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -42841,6 +43093,25 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
         "name": "KOTEKSPRODUKT - OKRETNICA",
         "lat": 45.2943712733,
         "lng": 19.7958213074,
@@ -42882,24 +43153,6 @@
           "35A",
           "35ČLA",
           "25A"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
-          "14A",
-          "15NKA",
-          "17B",
-          "19B"
         ]
       }
     ]
@@ -43551,7 +43804,7 @@
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -43560,6 +43813,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -45835,6 +46089,25 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
         "name": "KISAČKA - PODVOŽNJAK",
         "lat": 45.2665045391,
         "lng": 19.834665763,
@@ -45902,24 +46175,6 @@
           "14SA",
           "17A",
           "17B"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
-          "14A",
-          "15NKA",
-          "17B",
-          "19B"
         ]
       },
       {
@@ -47528,6 +47783,53 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
+        "lat": 45.2525198464,
+        "lng": 19.8368000824,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5A",
+          "5NB",
+          "7B",
+          "10A",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "15NPA",
+          "18B",
+          "19B",
+          "60B",
+          "61B",
+          "62B",
+          "63B",
+          "64B",
+          "68B",
+          "68ISB",
+          "68KPB",
+          "69B",
+          "69ĐB",
+          "71B",
+          "71ČB",
+          "71ISB",
+          "71ČTB",
+          "71AB",
+          "72B",
+          "73B",
+          "74B",
+          "76B",
+          "77B",
+          "78B",
+          "79B",
+          "80B",
+          "81B",
+          "84B",
+          "86B"
+        ]
+      },
+      {
         "name": "BULEVAR JOVANA DUČIĆA - BULEVAR SLOBODANA JOVANOVIĆA",
         "lat": 45.2529483166,
         "lng": 19.8031021067,
@@ -47766,52 +48068,6 @@
         ]
       },
       {
-        "name": "BULEVAR OSLOBOĐENJA - FUTOŠKA PIJACA",
-        "lat": 45.2525198464,
-        "lng": 19.8368000824,
-        "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
-        "lines": [
-          "3AB",
-          "4A",
-          "5A",
-          "5NB",
-          "7B",
-          "10A",
-          "14A",
-          "15NKA",
-          "15NPA",
-          "18B",
-          "19B",
-          "60B",
-          "61B",
-          "62B",
-          "63B",
-          "64B",
-          "68B",
-          "68ISB",
-          "68KPB",
-          "69B",
-          "69ĐB",
-          "71B",
-          "71ČB",
-          "71ISB",
-          "71ČTB",
-          "71AB",
-          "72B",
-          "73B",
-          "74B",
-          "76B",
-          "77B",
-          "78B",
-          "79B",
-          "80B",
-          "81B",
-          "84B",
-          "86B"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - POKRAJINSKI SUP",
         "lat": 45.255629856,
         "lng": 19.8351029309,
@@ -47932,6 +48188,7 @@
           "7B",
           "14A",
           "14SA",
+          "14GSA",
           "18B",
           "41A",
           "42A",
@@ -49094,7 +49351,7 @@
         "lat": 45.2525198464,
         "lng": 19.8368000824,
         "zone": "I",
-        "photo": "/slike/stajalista/11064.jpg",
+        "photo": null,
         "lines": [
           "3AB",
           "4A",
@@ -49103,6 +49360,7 @@
           "7B",
           "10A",
           "14A",
+          "14GSA",
           "15NKA",
           "15NPA",
           "18B",
@@ -49232,6 +49490,25 @@
         ]
       },
       {
+        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
+        "lat": 45.2613766166,
+        "lng": 19.8318492939,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "3AB",
+          "4A",
+          "5NB",
+          "7B",
+          "10ALA",
+          "14A",
+          "14GSA",
+          "15NKA",
+          "17B",
+          "19B"
+        ]
+      },
+      {
         "name": "BULEVAR OSLOBOĐENJA - NARODNOG FRONTA",
         "lat": 45.2421433047,
         "lng": 19.8425582061,
@@ -49267,24 +49544,6 @@
         "zone": "I",
         "photo": null,
         "lines": [
-          "19B"
-        ]
-      },
-      {
-        "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
-        "lat": 45.2613766166,
-        "lng": 19.8318492939,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "3AB",
-          "4A",
-          "5NB",
-          "7B",
-          "10ALA",
-          "14A",
-          "15NKA",
-          "17B",
           "19B"
         ]
       },
