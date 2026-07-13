@@ -37274,17 +37274,6 @@
         "lines": [
           "14A"
         ]
-      },
-      {
-        "name": "VETERNIK - CENTAR",
-        "lat": 45.2502026841,
-        "lng": 19.7570349816,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14A",
-          "52B"
-        ]
       }
     ]
   },
@@ -38101,6 +38090,17 @@
       ]
     ],
     "stops": [
+      {
+        "name": "VETERNIK - CENTAR",
+        "lat": 45.2502026841,
+        "lng": 19.7570349816,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "52B"
+        ]
+      },
       {
         "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
         "lat": 45.2543231427185,
