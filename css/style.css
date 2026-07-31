@@ -734,7 +734,8 @@ html, body {
   }
 
   #map-container {
-    height: 55%;
+    flex: 1;
+    min-height: 0;
   }
 
   .header-subtitle {

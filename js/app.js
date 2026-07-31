@@ -21,6 +21,9 @@ document.addEventListener('DOMContentLoaded', async () => {
   await loadData();
   renderRouteList();
   bindEvents();
+
+  // Leaflet needs a size recalc after flex layout settles (critical on mobile)
+  setTimeout(() => map.invalidateSize(), 200);
 });
 
 function initMap() {
@@ -274,7 +277,8 @@ function addRouteToMap(routeId) {
   activeRoutes.set(routeId, { polyline, stopMarkers });
 
   // Fit map to route bounds
-  map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
+  const pad = window.innerWidth <= 768 ? 20 : 50;
+  map.fitBounds(polyline.getBounds(), { padding: [pad, pad] });
 }
 
 function removeRouteFromMap(routeId) {
