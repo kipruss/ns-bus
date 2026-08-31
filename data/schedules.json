@@ -5222,9 +5222,9 @@
   },
   "4": {
     "R": {
-      "title": "4 LIMAN IV - Z.STANICA - Z.STANICA (RUMEN.PUT)",
+      "title": "4 LIMAN IV - CENTAR - Z.STANICA (RUMEN.PUT)",
       "dirA": {
-        "name": "LIMAN IV  -  Z.STANICA  -  Z.STANICA (RUMEN.PUT)",
+        "name": "LIMAN IV  -  CENTAR  -  Z.STANICA (RUMEN.PUT)",
         "departures": [
           {
             "h": 4,
@@ -5600,7 +5600,7 @@
         ]
       },
       "dirB": {
-        "name": "Z.STANICA (RUMEN.PUT) -  Z.STANICA  - LIMAN IV",
+        "name": "Z.STANICA (RUMEN.PUT) -  CENTAR  - LIMAN IV",
         "departures": [
           {
             "h": 4,
@@ -5973,9 +5973,9 @@
       "legend": "ZELENO PODVUČENO - NISKOPODNI SA RAMPOM"
     },
     "S": {
-      "title": "4 LIMAN IV - Z.STANICA - Z.STANICA (RUMEN.PUT)",
+      "title": "4 LIMAN IV - CENTAR - Z.STANICA (RUMEN.PUT)",
       "dirA": {
-        "name": "LIMAN IV  -  Z.STANICA  -  Z.STANICA (RUMEN.PUT)",
+        "name": "LIMAN IV  -  CENTAR  -  Z.STANICA (RUMEN.PUT)",
         "departures": [
           {
             "h": 4,
@@ -6296,7 +6296,7 @@
         ]
       },
       "dirB": {
-        "name": "Z.STANICA (RUMEN.PUT) -  Z.STANICA  - LIMAN IV",
+        "name": "Z.STANICA (RUMEN.PUT) -  CENTAR  - LIMAN IV",
         "departures": [
           {
             "h": 4,
@@ -6615,9 +6615,9 @@
       "legend": "ZELENO PODVUČENO - NISKOPODNI SA RAMPOM"
     },
     "N": {
-      "title": "4 LIMAN IV - Z.STANICA - Z.STANICA (RUMEN.PUT)",
+      "title": "4 LIMAN IV - CENTAR - Z.STANICA (RUMEN.PUT)",
       "dirA": {
-        "name": "LIMAN IV  -  Z.STANICA  -  Z.STANICA (RUMEN.PUT)",
+        "name": "LIMAN IV  -  CENTAR  -  Z.STANICA (RUMEN.PUT)",
         "departures": [
           {
             "h": 4,
@@ -6938,7 +6938,7 @@
         ]
       },
       "dirB": {
-        "name": "Z.STANICA (RUMEN.PUT) -  Z.STANICA  - LIMAN IV",
+        "name": "Z.STANICA (RUMEN.PUT) -  CENTAR  - LIMAN IV",
         "departures": [
           {
             "h": 4,
