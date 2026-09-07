@@ -14464,6 +14464,11 @@
             "note": "APT"
           },
           {
+            "h": 8,
+            "m": 20,
+            "note": "MAL"
+          },
+          {
             "h": 13,
             "m": 30,
             "note": "APT"
@@ -14516,12 +14521,17 @@
           {
             "h": 16,
             "m": 10,
-            "note": "AL"
+            "note": "ALM"
           },
           {
             "h": 16,
             "m": 15,
             "note": "APT"
+          },
+          {
+            "h": 17,
+            "m": 5,
+            "note": "MR"
           },
           {
             "h": 22,
@@ -14535,7 +14545,7 @@
           }
         ]
       },
-      "legend": "AL=ALBUS, ALM=ALBUS I MASINOREMONT, APT=APTIV SA I DO Z.STANICE, MAL=MASINOREMONT I ALBUS, RP=RANZIRNA/PARKING"
+      "legend": "AL=ALBUS, ALM=ALBUS I MASINOREMONT, APT=APTIV SA I DO Z.STANICE, MAL=MASINOREMONT I ALBUS, MR=MAŠINOREMONT, RP=RANZIRNA/PARKING"
     },
     "S": {
       "title": "10 CENTAR-INDUST.ZONA JUG",
