@@ -5121,6 +5121,27 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "FUTOŠKA - BOLNICA",
         "lat": 45.2494278377,
         "lng": 19.8238348508,
@@ -5159,11 +5180,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -5172,7 +5193,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -5188,25 +5210,40 @@
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
+        ]
+      },
+      {
+        "name": "FUTOŠKA - JODNA BANJA",
+        "lat": 45.2492337673,
+        "lng": 19.8289089911,
         "zone": "I",
         "photo": null,
         "lines": [
           "2A",
           "6A",
           "6DA",
-          "9B",
-          "9AB",
-          "52A",
           "53A",
-          "54AA",
-          "53CGA",
           "54A",
+          "54AA",
           "54ŽAA",
           "55A",
-          "55CGA"
+          "55CGA",
+          "53CGA"
         ]
       },
       {
@@ -5230,43 +5267,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - JODNA BANJA",
-        "lat": 45.2492337673,
-        "lng": 19.8289089911,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "52A",
-          "53A",
-          "54A",
-          "54AA",
-          "54ŽAA",
-          "55A",
-          "55CGA",
-          "53CGA"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "FUTOŠKI PUT - SATELITSKA PIJACA",
         "lat": 45.2461119679,
         "lng": 19.7998632846,
@@ -5274,7 +5274,6 @@
         "photo": null,
         "lines": [
           "2A",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -5297,7 +5296,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -5576,22 +5574,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
-        "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
-        "lines": [
-          "2B",
-          "7A",
-          "7B",
-          "8A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "BULEVAR JOVANA DUČIĆA - BATE BRKIĆA",
         "lat": 45.2511237051,
         "lng": 19.7983862612,
@@ -5614,6 +5596,23 @@
         "photo": "/slike/stajalista/10503.jpg",
         "lines": [
           "2B"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -5703,29 +5702,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
-        "lat": 45.2488161894,
-        "lng": 19.8177958089,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "9A",
-          "9AA",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB"
-        ]
-      },
-      {
         "name": "FUTOŠKI PUT - BULEVAR PATRIJARHA PAVLA",
         "lat": 45.2445958159,
         "lng": 19.79550631,
@@ -5733,7 +5709,30 @@
         "photo": null,
         "lines": [
           "2B",
-          "52B",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB",
+          "56B"
+        ]
+      },
+      {
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "6ĐA",
+          "9A",
+          "9AA",
           "53B",
           "53CGB",
           "54B",
@@ -5768,16 +5767,15 @@
         ]
       },
       {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
+        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
+        "lat": 45.2488161894,
+        "lng": 19.8177958089,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
           "6B",
           "6DB",
-          "6ĐA",
           "9A",
           "9AA",
           "52B",
@@ -5788,8 +5786,7 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB",
-          "56B"
+          "55CGB"
         ]
       }
     ]
@@ -15834,6 +15831,27 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "BRANKA ĆOPIĆA - JESENJINOVA",
         "lat": 45.2336724229,
         "lng": 19.7917712223,
@@ -16051,28 +16069,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "9B",
-          "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
-        ]
-      },
-      {
         "name": "FUTOŠKA - JODNA BANJA",
         "lat": 45.2492337673,
         "lng": 19.8289089911,
@@ -16082,7 +16078,6 @@
           "2A",
           "6A",
           "6DA",
-          "52A",
           "53A",
           "54A",
           "54AA",
@@ -16117,7 +16112,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -17170,18 +17164,18 @@
         ]
       },
       {
-        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
-        "lat": 45.2488161894,
-        "lng": 19.8177958089,
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
           "6B",
           "6DB",
+          "6ĐA",
           "9A",
           "9AA",
-          "52B",
           "53B",
           "53CGB",
           "54B",
@@ -17189,7 +17183,8 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB"
+          "55CGB",
+          "56B"
         ]
       },
       {
@@ -17215,16 +17210,15 @@
         ]
       },
       {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
+        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
+        "lat": 45.2488161894,
+        "lng": 19.8177958089,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
           "6B",
           "6DB",
-          "6ĐA",
           "9A",
           "9AA",
           "52B",
@@ -17235,8 +17229,7 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB",
-          "56B"
+          "55CGB"
         ]
       }
     ]
@@ -18192,6 +18185,27 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "BRANKA ĆOPIĆA - JESENJINOVA",
         "lat": 45.2336724229,
         "lng": 19.7917712223,
@@ -18421,28 +18435,6 @@
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2A",
-          "6A",
-          "6DA",
-          "9B",
-          "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
-        ]
-      },
-      {
         "name": "FUTOŠKA - JODNA BANJA",
         "lat": 45.2492337673,
         "lng": 19.8289089911,
@@ -18452,7 +18444,6 @@
           "2A",
           "6A",
           "6DA",
-          "52A",
           "53A",
           "54A",
           "54AA",
@@ -18498,7 +18489,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -19406,18 +19396,18 @@
         ]
       },
       {
-        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
-        "lat": 45.2488161894,
-        "lng": 19.8177958089,
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
           "6B",
           "6DB",
+          "6ĐA",
           "9A",
           "9AA",
-          "52B",
           "53B",
           "53CGB",
           "54B",
@@ -19425,7 +19415,8 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB"
+          "55CGB",
+          "56B"
         ]
       },
       {
@@ -19451,16 +19442,15 @@
         ]
       },
       {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
+        "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
+        "lat": 45.2488161894,
+        "lng": 19.8177958089,
         "zone": "I",
         "photo": null,
         "lines": [
           "2B",
           "6B",
           "6DB",
-          "6ĐA",
           "9A",
           "9AA",
           "52B",
@@ -19471,8 +19461,7 @@
           "54AB",
           "54AŽGB",
           "55B",
-          "55CGB",
-          "56B"
+          "55CGB"
         ]
       }
     ]
@@ -20040,19 +20029,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "NARODNOG FRONTA - ŠEKSPIROVA",
         "lat": 45.2400602044,
         "lng": 19.8370412179,
@@ -20088,19 +20064,17 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
-          "2B",
           "7A",
-          "7B",
-          "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -20212,11 +20186,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -20225,7 +20199,26 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -20273,6 +20266,23 @@
         ]
       },
       {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
+        ]
+      },
+      {
         "name": "BULEVAR PATRIJARHA PAVLA  - BULEVAR EVROPE",
         "lat": 45.23977,
         "lng": 19.821792,
@@ -20313,23 +20323,6 @@
           "73A",
           "74A",
           "76A"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
         ]
       },
       {
@@ -21145,22 +21138,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
-        "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
-        "lines": [
-          "2B",
-          "7A",
-          "7B",
-          "8A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - MAKSIMA GORKOG",
         "lat": 45.2485327883,
         "lng": 19.8390130044,
@@ -21257,11 +21234,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -21270,7 +21247,26 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -21365,6 +21361,23 @@
         ]
       },
       {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
+        ]
+      },
+      {
         "name": "BULEVAR OSLOBOĐENJA - NARODNOG FRONTA",
         "lat": 45.2421433047,
         "lng": 19.8425582061,
@@ -21424,23 +21437,6 @@
         "photo": "/slike/10153.jpg",
         "lines": [
           "7B",
-          "18B"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
           "18B"
         ]
       },
@@ -21898,6 +21894,17 @@
         ]
       },
       {
+        "name": "RAŠE RADUJKOVA - VLADIKE ĆIRIĆA",
+        "lat": 45.2542051645,
+        "lng": 19.8072929653,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "8A",
+          "52B"
+        ]
+      },
+      {
         "name": "BULEVAR KRALJA PETRA PRVOG - SAJAM",
         "lat": 45.2591224024,
         "lng": 19.8244448578,
@@ -21943,22 +21950,6 @@
           "1A",
           "1JA",
           "8A"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
-        "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
-        "lines": [
-          "2B",
-          "7A",
-          "7B",
-          "8A",
-          "9A",
-          "9AA",
-          "18A"
         ]
       },
       {
@@ -22057,16 +22048,6 @@
         ]
       },
       {
-        "name": "RAŠE RADUJKOVA - VLADIKE ĆIRIĆA",
-        "lat": 45.2542051645,
-        "lng": 19.8072929653,
-        "zone": "I",
-        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0364334.jpg",
-        "lines": [
-          "8A"
-        ]
-      },
-      {
         "name": "HADŽI RUVIMOVA - JANKA ČMELIKA",
         "lat": 45.256618567,
         "lng": 19.8145474244,
@@ -22094,6 +22075,23 @@
         "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0379346.jpg",
         "lines": [
           "8A"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -22989,11 +22987,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -23002,7 +23000,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -23057,13 +23056,21 @@
         ]
       },
       {
-        "name": "RAŠE RADUJKOVA - STOJANA NOVAKOVIĆA",
-        "lat": 45.2540476132,
-        "lng": 19.8064282878,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
         "zone": "I",
-        "photo": "http://www.mapanovisad.rs/stajalista_gsp/img0363333.jpg",
+        "photo": null,
         "lines": [
-          "8B"
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -23087,20 +23094,14 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
+        "name": "RAŠE RADUJKOVA - STOJANA NOVAKOVIĆA",
+        "lat": 45.2540476132,
+        "lng": 19.8064282878,
         "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
+        "photo": null,
         "lines": [
-          "2A",
-          "7A",
-          "7B",
           "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
+          "52A"
         ]
       }
     ]
@@ -23804,19 +23805,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "CARA DUŠANA - MEDICINSKA ŠKOLA",
         "lat": 45.2436192236,
         "lng": 19.8250937953,
@@ -23925,19 +23913,17 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
-          "2B",
           "7A",
-          "7B",
-          "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -24012,6 +23998,23 @@
         ]
       },
       {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
+        ]
+      },
+      {
         "name": "BULEVAR CARA LAZARA - IVE ANDRIĆA",
         "lat": 45.2399480828,
         "lng": 19.8258641034,
@@ -24042,6 +24045,30 @@
         ]
       },
       {
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "6ĐA",
+          "9A",
+          "9AA",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB",
+          "56B"
+        ]
+      },
+      {
         "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
         "lat": 45.2488161894,
         "lng": 19.8177958089,
@@ -24062,31 +24089,6 @@
           "54AŽGB",
           "55B",
           "55CGB"
-        ]
-      },
-      {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "6ĐA",
-          "9A",
-          "9AA",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB",
-          "56B"
         ]
       }
     ]
@@ -24822,6 +24824,27 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "PRERADOVIĆEVA - RELJKOVIĆEVA",
         "lat": 45.2496755784,
         "lng": 19.8757045697,
@@ -25033,11 +25056,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -25046,29 +25069,26 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
         "zone": "I",
         "photo": null,
         "lines": [
           "2A",
-          "6A",
-          "6DA",
+          "7A",
+          "7B",
+          "8B",
           "9B",
           "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -25133,23 +25153,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "FUTOŠKA - JUGOALAT",
         "lat": 45.2478325873,
         "lng": 19.810052585,
@@ -25161,7 +25164,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -26294,19 +26296,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "CARA DUŠANA - MEDICINSKA ŠKOLA",
         "lat": 45.2436192236,
         "lng": 19.8250937953,
@@ -26415,19 +26404,17 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
-          "2B",
           "7A",
-          "7B",
-          "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -26536,6 +26523,23 @@
         ]
       },
       {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
+        ]
+      },
+      {
         "name": "BULEVAR CARA LAZARA - IVE ANDRIĆA",
         "lat": 45.2399480828,
         "lng": 19.8258641034,
@@ -26566,6 +26570,30 @@
         ]
       },
       {
+        "name": "FUTOŠKI PUT - VRŠAČKA",
+        "lat": 45.247517576,
+        "lng": 19.8083415635,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "6B",
+          "6DB",
+          "6ĐA",
+          "9A",
+          "9AA",
+          "53B",
+          "53CGB",
+          "54B",
+          "54KFB",
+          "54AB",
+          "54AŽGB",
+          "55B",
+          "55CGB",
+          "56B"
+        ]
+      },
+      {
         "name": "FUTOŠKA - HIGIJENSKI ZAVOD",
         "lat": 45.2488161894,
         "lng": 19.8177958089,
@@ -26586,31 +26614,6 @@
           "54AŽGB",
           "55B",
           "55CGB"
-        ]
-      },
-      {
-        "name": "FUTOŠKI PUT - VRŠAČKA",
-        "lat": 45.247517576,
-        "lng": 19.8083415635,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "2B",
-          "6B",
-          "6DB",
-          "6ĐA",
-          "9A",
-          "9AA",
-          "52B",
-          "53B",
-          "53CGB",
-          "54B",
-          "54KFB",
-          "54AB",
-          "54AŽGB",
-          "55B",
-          "55CGB",
-          "56B"
         ]
       }
     ]
@@ -27414,6 +27417,27 @@
         ]
       },
       {
+        "name": "FUTOŠKA - BULEVAR EVROPE",
+        "lat": 45.2485623853,
+        "lng": 19.815564749,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "6A",
+          "6DA",
+          "9B",
+          "9AB",
+          "53A",
+          "54AA",
+          "53CGA",
+          "54A",
+          "54ŽAA",
+          "55A",
+          "55CGA"
+        ]
+      },
+      {
         "name": "PRERADOVIĆEVA - RELJKOVIĆEVA",
         "lat": 45.2496755784,
         "lng": 19.8757045697,
@@ -27612,11 +27636,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -27625,29 +27649,26 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
-        "name": "FUTOŠKA - BULEVAR EVROPE",
-        "lat": 45.2485623853,
-        "lng": 19.815564749,
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
         "zone": "I",
         "photo": null,
         "lines": [
           "2A",
-          "6A",
-          "6DA",
+          "7A",
+          "7B",
+          "8B",
           "9B",
           "9AB",
-          "52A",
-          "53A",
-          "54AA",
-          "53CGA",
-          "54A",
-          "54ŽAA",
-          "55A",
-          "55CGA"
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -27728,23 +27749,6 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
-        ]
-      },
-      {
         "name": "FUTOŠKA - JUGOALAT",
         "lat": 45.2478325873,
         "lng": 19.810052585,
@@ -27756,7 +27760,6 @@
           "6DA",
           "9B",
           "9AB",
-          "52A",
           "53A",
           "53CGA",
           "54A",
@@ -36050,16 +36053,6 @@
         ]
       },
       {
-        "name": "BULEVAR EVROPE - FUTOŠKA",
-        "lat": 45.249118,
-        "lng": 19.816518,
-        "zone": "I",
-        "photo": "/slike/10156.jpg",
-        "lines": [
-          "13B"
-        ]
-      },
-      {
         "name": "BULEVAR EVROPE - CARA DUŠANA\r\n",
         "lat": 45.239855,
         "lng": 19.82477,
@@ -36110,6 +36103,17 @@
           "13A",
           "13B",
           "13UĐA"
+        ]
+      },
+      {
+        "name": "BULEVAR EVROPE - FUTOŠKA",
+        "lat": 45.249118,
+        "lng": 19.816518,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "13B",
+          "52A"
         ]
       }
     ]
@@ -37199,17 +37203,6 @@
         ]
       },
       {
-        "name": "VETERNIK - CENTAR",
-        "lat": 45.2502026841,
-        "lng": 19.7570349816,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14A",
-          "52A"
-        ]
-      },
-      {
         "name": "BULEVAR OSLOBOĐENJA - BULEVAR KRALJA PETRA PRVOG",
         "lat": 45.2613766166,
         "lng": 19.8318492939,
@@ -37236,6 +37229,17 @@
         "lines": [
           "14A",
           "14B"
+        ]
+      },
+      {
+        "name": "VETERNIK - CENTAR",
+        "lat": 45.2502026841,
+        "lng": 19.7570349816,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14A",
+          "52B"
         ]
       },
       {
@@ -38102,9 +38106,9 @@
         ]
       },
       {
-        "name": "VETERNIK - STADION",
-        "lat": 45.2531656254,
-        "lng": 19.7606394502,
+        "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
+        "lat": 45.2543231427185,
+        "lng": 19.7620929551699,
         "zone": "I",
         "photo": null,
         "lines": [
@@ -38267,6 +38271,17 @@
         ]
       },
       {
+        "name": "VETERNIK - STADION",
+        "lat": 45.2531656254,
+        "lng": 19.7606394502,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "14B",
+          "52B"
+        ]
+      },
+      {
         "name": "RUMENAČKI PUT - AVIJATIČARSKA",
         "lat": 45.2702133075,
         "lng": 19.8089150153,
@@ -38315,16 +38330,6 @@
           "14SB",
           "15APTB",
           "18A"
-        ]
-      },
-      {
-        "name": "VETERNIK - TOME MAKSIMOVIĆA - STADION",
-        "lat": 45.2543231427185,
-        "lng": 19.7620929551699,
-        "zone": "I",
-        "photo": null,
-        "lines": [
-          "14B"
         ]
       },
       {
@@ -46479,19 +46484,6 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
-        "lat": 45.2495765937,
-        "lng": 19.7936823203,
-        "zone": "I",
-        "photo": "/slike/stajalista/10563.jpg",
-        "lines": [
-          "7A",
-          "9A",
-          "9AA",
-          "18A"
-        ]
-      },
-      {
         "name": "RUMENAČKA - ABC SAMOPOSLUGA",
         "lat": 45.2609008436,
         "lng": 19.8204896166,
@@ -46569,19 +46561,17 @@
         ]
       },
       {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.247888,
-        "lng": 19.787416,
+        "name": "BULEVAR JOVANA DUČIĆA - IGRALIŠTE",
+        "lat": 45.2495765937,
+        "lng": 19.7936823203,
         "zone": "I",
-        "photo": "/slike/stajalista/11025.jpg",
+        "photo": null,
         "lines": [
-          "2B",
           "7A",
-          "7B",
-          "8A",
           "9A",
           "9AA",
-          "18A"
+          "18A",
+          "52B"
         ]
       },
       {
@@ -46666,11 +46656,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -46679,7 +46669,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -46692,6 +46683,24 @@
           "2A",
           "18A",
           "18B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -46736,6 +46745,23 @@
         "lines": [
           "7A",
           "18A"
+        ]
+      },
+      {
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.247888,
+        "lng": 19.787416,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2B",
+          "7A",
+          "7B",
+          "8A",
+          "9A",
+          "9AA",
+          "18A",
+          "52B"
         ]
       },
       {
@@ -46793,23 +46819,6 @@
           "64B",
           "69B",
           "18A"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
-          "18B"
         ]
       },
       {
@@ -47841,11 +47850,11 @@
         ]
       },
       {
-        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
-        "lat": 45.2489713023,
-        "lng": 19.7915144259,
+        "name": "NOVO NASELJE - KRUŽNI TOK",
+        "lat": 45.248251,
+        "lng": 19.786933,
         "zone": "I",
-        "photo": "/slike/stajalista/10953.jpg",
+        "photo": null,
         "lines": [
           "2A",
           "7A",
@@ -47854,7 +47863,8 @@
           "9B",
           "9AB",
           "18A",
-          "18B"
+          "18B",
+          "52A"
         ]
       },
       {
@@ -47867,6 +47877,24 @@
           "2A",
           "18A",
           "18B"
+        ]
+      },
+      {
+        "name": "BULEVAR JOVANA DUČIĆA - BULEVAR KNEZA MILOŠA",
+        "lat": 45.2489713023,
+        "lng": 19.7915144259,
+        "zone": "I",
+        "photo": null,
+        "lines": [
+          "2A",
+          "7A",
+          "7B",
+          "8B",
+          "9B",
+          "9AB",
+          "18A",
+          "18B",
+          "52A"
         ]
       },
       {
@@ -47982,23 +48010,6 @@
           "12B",
           "13A",
           "13UĐA",
-          "18B"
-        ]
-      },
-      {
-        "name": "NOVO NASELJE - KRUŽNI TOK",
-        "lat": 45.248251,
-        "lng": 19.786933,
-        "zone": "I",
-        "photo": "/slike/stajalista/10954.jpg",
-        "lines": [
-          "2A",
-          "7A",
-          "7B",
-          "8B",
-          "9B",
-          "9AB",
-          "18A",
           "18B"
         ]
       }
